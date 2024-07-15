@@ -53,6 +53,7 @@ MonthlyCharges: The amount charged to the customer monthly
 
 TotalCharges: The total amount charged to the customer
 
-#Churn: Whether the customer churned (Yes or No)
+Churn: Whether the customer churned (Yes or No)
+
 
 Based on this information, a machine learning model will be developed to predict customer churn. The dataset includes various demographic and service-related variables that will be used to forecast whether customers will churn or not.
