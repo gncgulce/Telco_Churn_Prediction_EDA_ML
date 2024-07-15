@@ -1,5 +1,3 @@
-# Telco_Churn_Prediction_EDA_ML
-
 # Business Problem
 A machine learning model is expected to be developed to predict customers who will leave the company.
 ![Churn](https://github.com/user-attachments/assets/2629e525-20b9-4d4f-a2f8-e76c98158fb7)
