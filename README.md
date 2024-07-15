@@ -2,7 +2,7 @@
 
 # Business Problem
 A machine learning model is expected to be developed to predict customers who will leave the company.
-![Churn](https://github.com/user-attachments/assets/bfac570c-10f3-48b5-90c9-54581aae0417)
+![Churn](https://github.com/user-attachments/assets/2629e525-20b9-4d4f-a2f8-e76c98158fb7)
 
 # Dataset
 The Telco customer churn dataset contains information about a fictional telecommunications company that provided home phone and Internet services to 7043 customers in California during the third quarter. It shows which customers have left, stayed, or signed up for their services.
